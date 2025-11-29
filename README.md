@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! 
+
+I'm Laia (she/her). I'm a Sociologist who pivoted to Data Science a while ago and happily found the intersection of these two things doing Data Science for Public Policy. I enjoy exploring creative ways to generate, analyze, and repurpose data to better understand and address social challenges. I have experience in different projects in academia, NGO and teaching, you can look into them in detail at my [website](https://ldmnch.github.io/layitx/about.html). 
+- 🔭 I’m currently working at the [Sovereign Tech Agency](https://www.sovereign.tech/), as a Working Student in the team of Data & Research, where I help build indicators to measure the impact of investments in free and open-source software (FOSS) for critical infrastructure. 
+- 🌱 My current interests are: Causal Machine Learning, ethical AI, open-source communities and NLP. 
+
 
 <!--
 **ldmnch/ldmnch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
